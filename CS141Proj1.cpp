@@ -4,7 +4,7 @@
  * Class: CS 141
  * Author: Aryan Thaman
  * Lab: Tues 9am
- * System:  C++ online in codio.com
+ * System:  C++ online in codio.com .
  *
  *   45 Programming Style Rubric (Given only if program runs substantially correctly)
  *         5 This rubric is included in the program
